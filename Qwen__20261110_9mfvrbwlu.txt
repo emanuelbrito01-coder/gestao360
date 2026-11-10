@@ -1,0 +1,21 @@
+
+---
+
+## 8. Instruções finais
+
+1. **Criar repositório GitHub** chamado `gestao360`
+2. **Copiar todos os ficheiros** acima para o repositório
+3. **Criar conta Supabase** e executar o schema SQL
+4. **Criar conta Vercel** e importar o repositório
+5. **Adicionar variáveis de ambiente** na Vercel
+6. **Fazer deploy**
+
+A aplicação fica online em `https://gestao360-xxx.vercel.app` com HTTPS automático.
+
+**Próximos passos após o deploy:**
+- Criar os restantes utilizadores via SQL ou interface
+- Importar dados iniciais (clientes, funcionários, carrinhas)
+- Testar todos os módulos
+- Ajustar relatórios conforme necessidade
+
+Se precisares de ajuda com alguma etapa específica, diz-me qual e guio-te passo a passo.
